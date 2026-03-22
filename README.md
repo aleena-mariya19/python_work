@@ -1,7 +1,7 @@
 # Python Work
 
 
-*This repository contains my Python codes, practice exercises, and solved examples from various topics — built to strengthen programming logic and analytical skills.*
+**This repository contains my Python codes, practice exercises, and solved examples from various topics — built to strengthen programming logic and analytical skills.**
 
 ---
 
